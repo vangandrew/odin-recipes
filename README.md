@@ -1,1 +1,1 @@
-# odin-recipes
+This project is going to about building a basic recipe website using HTML. It's going to be ugly without any CSS but that's okay because this is just about HTML and we're going to come back to this work on it later with more CSS knowledge!
